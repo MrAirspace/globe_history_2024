@@ -36,3 +36,8 @@ Would you like to help? Get in touch!
 - **The existing open source software**, adsb.lol is not much more than a [prod-ready configuration](https://github.com/adsblol/infra) of [readsb](https://github.com/wiedehopf/readsb), [tar1090](https://github.com/wiedehopf/tar1090), [mlat-server](https://github.com/wiedehopf/mlat-server).
 - **GitHub**, for storing and serving open source / open data releases of aircraft flights history.
 - Most other flight aggregators, with the exception of [ADSBHub](https://www.adsbhub.org/), [OpenSky Network](https://opensky-network.org/), for holding tight onto their data and giving me the motivation to show it is possible! :)
+
+## External projects making use of adsblol data
+
+Please get in touch if your project/initiative/repository makes use of the adsblol data and you want to be featured in this section. So far, the following initiatives are known:
+- [Aircraft-Flight-Logs](https://github.com/MrAirspace/aircraft-flight-logs), which are flight schedules per aircraft, extracted from the ADS-B position reports
